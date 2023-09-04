@@ -46,7 +46,7 @@ Here are some ideas to get you started:
  &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40"/>
  &nbsp;
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F306030%2Ffastify&psig=AOvVaw1JNMQdTZplz2lNsPmGktTF&ust=1693910097605000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiZmYDhkIEDFQAAAAAdAAAAABAD" width="40" height="40">
+<img src="https://www.svgrepo.com/show/306030/fastify.svg" width="40" height="40">
 </p>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>
