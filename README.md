@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Tools I've used<img src="https://giphy.com/stickers/computer-screen-imac-gH85KtY9fX2yd9eG4F" width="40"></h2>
 
-<p align='centre'>
+<p align='center'>
 <img src="https://cdn.worldvectorlogo.com/logos/intercom-2.svg" width="40" height="40"/>
  &nbsp;
 <img src="https://www.svgrepo.com/show/473498/zendesk.svg" width="40" height="40"/>
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 <img src="https://static-00.iconduck.com/assets.00/mongodb-compass-icon-2048x2045-71fe0v1q.png" width="40" height="40"/>
  &nbsp;
 </p>
-<p align='centre'>
+<p align='center'>
 <img src="https://static-00.iconduck.com/assets.00/notion-icon-1024x1024-w4ztkmb6.png" width="40" height="40"/>
  &nbsp;
 <img src="https://www.svgrepo.com/show/354596/zapier-icon.svg" width="40" height="40"/>
@@ -104,9 +104,9 @@ Here are some ideas to get you started:
  &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="40" height="40"/>
  &nbsp;
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-stripe-2-498440.png?f=webp" width="40" height="40"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-stripe-2-498440.png" width="40" height="40"/>
  &nbsp;
-<img src="https://www.iconbolt.com/preview/facebook/elastic-ui-logos/elastic.svg" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/349350/elastic.svg" width="40" height="40"/>
  &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Retool_logo.svg" width="40" height="40"/>
  &nbsp;
