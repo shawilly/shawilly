@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 
 
 ## Hey 👋, I'm [Shane Williams](https://github.com/shawilly) 👨‍💻
-
-<br></br>
-
+<br>
 <h2 align="center">Reach me on</h2>
 <p align="center">
 <a href="mailto:shane@shawilly.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
