@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ## Hey 👋, I'm [Shane Williams](https://github.com/shawilly) 👨‍💻
 <br>
 <div align="center">
-<img hight="300" width="800" alt="GIF" align="center" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img height="300" width="800" alt="GIF" align="center" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 </div>
 <h2 align="center">Reach me on</h2>
 <p align="center">
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<h2 align="center">Tools I've used<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /></h2>
+<h2 align="center">Tools I've used <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /></h2>
 
 <p align='center'>
 <img src="https://cdn.worldvectorlogo.com/logos/intercom-2.svg" width="40" height="40"/>
