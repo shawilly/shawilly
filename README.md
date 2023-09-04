@@ -43,6 +43,7 @@ Here are some ideas to get you started:
  &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40"/>
  &nbsp;
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F306030%2Ffastify&psig=AOvVaw1JNMQdTZplz2lNsPmGktTF&ust=1693910097605000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiZmYDhkIEDFQAAAAAdAAAAABAD" width="40" height="40">
 </p>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>
@@ -58,5 +59,56 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
  &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
+ &nbsp;
+<img src="https://www.svgrepo.com/show/353659/docker-icon.svg" width="40" height="40"/>
+ &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" width="40" height="40"/>
+ &nbsp;
 </p>
 <br>
+
+<h2 align="center">Tools I've used<img src="https://giphy.com/stickers/computer-screen-imac-gH85KtY9fX2yd9eG4F" width="40"></h2>
+
+<p align='centre'>
+<img src="https://cdn.worldvectorlogo.com/logos/intercom-2.svg" width="40" height="40"/>
+ &nbsp;
+<img src="https://www.svgrepo.com/show/473498/zendesk.svg" width="40" height="40"/>
+ &nbsp;
+<img src="https://www.svgrepo.com/show/331433/hubspot.svg" width="40" height="40"/>
+ &nbsp;
+<img src="https://www.svgrepo.com/show/354063/metabase.svg" width="40" height="40"/>
+ &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" width="40" height="40"/>
+ &nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" height="40"/>
+ &nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" width="40" height="40"/>
+ &nbsp;
+<img src="https://static-00.iconduck.com/assets.00/mongodb-compass-icon-2048x2045-71fe0v1q.png" width="40" height="40"/>
+ &nbsp;
+</p>
+<p align='centre'>
+<img src="https://static-00.iconduck.com/assets.00/notion-icon-1024x1024-w4ztkmb6.png" width="40" height="40"/>
+ &nbsp;
+<img src="https://www.svgrepo.com/show/354596/zapier-icon.svg" width="40" height="40"/>
+ &nbsp;
+<img src="https://static-00.iconduck.com/assets.00/sentry-icon-512x460-s8hgd8yj.png" width="40" height="40"/>
+ &nbsp;
+<img src="https://www.svgrepo.com/show/353961/kibana.svg" width="40" height="40"/>
+ &nbsp;
+<img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png" width="40" height="40"/>
+ &nbsp;
+<img src="https://static-00.iconduck.com/assets.00/cloud-build-icon-452x512-zthklwch.png" width="40" height="40"/>
+ &nbsp;
+<img src="https://www.svgrepo.com/show/375383/cloud-run.svg" width="40" height="40"/>
+ &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="40" height="40"/>
+ &nbsp;
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-stripe-2-498440.png?f=webp" width="40" height="40"/>
+ &nbsp;
+<img src="https://www.iconbolt.com/preview/facebook/elastic-ui-logos/elastic.svg" width="40" height="40"/>
+ &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Retool_logo.svg" width="40" height="40"/>
+ &nbsp;
+</p>
+
