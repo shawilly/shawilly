@@ -1,28 +1,14 @@
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-## Hey 👋, I'm [Shane Williams](https://shawilly.dev) 👨‍💻
-<br>
 <div align="center">
-<img alt="GIF" align="center" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<p align="center" color="#a8daff">$${\color{blue}hey, I'm}$$</p>
+<p align="center" color="#a8daff">$${\color{lightblue}━━━━┏┓━━━━━━━━━━━━━━━┏┓━┏┓━━━━━━}$$</p>
+<p align="center" color="#a8daff">$${\color{lightblue}━━━━┃┃━━━━━━━━━━━━━━━┃┃━┃┃━━━━━━}$$</p>
+<p align="center" color="#a8daff">$${\color{lightblue}┏━━┓┃┗━┓┏━━┓━┏┓┏┓┏┓┏┓┃┃━┃┃━┏┓━┏┓}$$</p>
+<p align="center" color="#a8daff">$${\color{lightblue}┃━━┫┃┏┓┃┗━┓┃━┃┗┛┗┛┃┣┫┃┃━┃┃━┃┃━┃┃}$$</p>
+<p align="center" color="#a8daff">$${\color{lightblue}┣━━┃┃┃┃┃┃┗┛┗┓┗┓┏┓┏┛┃┃┃┗┓┃┗┓┃┗━┛┃}$$</p>
+<p align="center" color="#a8daff">$${\color{lightblue}┗━━┛┗┛┗┛┗━━━┛━┗┛┗┛━┗┛┗━┛┗━┛┗━┓┏┛}$$</p>
+<p align="center" color="#a8daff">$${\color{lightblue}━━━━━━━━━━━━━━━━━━━━━━━━━━━┏━┛┃━}$$</p>
+<p align="center" color="#a8daff">$${\color{lightblue}━━━━━━━━━━━━━━━━━━━━━━━━━━━┗━━┛━}$$</p>
 </div>
-<h2 align="center">Reach me on</h2>
-<p align="center">
-<a href="mailto:shane@shawilly.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
-<a href="https://www.linkedin.com/in/shanebarrywilliams/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-<a href="https://www.instagram.com/fatmanlifting/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-</p>
-
 <h3 align="center" color="#a8daff">$${\color{lightblue}Creator \space of...}$$</h3>
 <div align="center">
  <a href="https://github.com/shawilly/ponokai/">
@@ -30,6 +16,13 @@ Here are some ideas to get you started:
   </a>
 </div>
 <h1 align="center" color="#a8daff">$${\color{lightblue}A \space pastel \space twist \space on \space the \space iconic \space Monokai, \space crafted \space for \space comfort \space and \space style.}$$</h1>
+
+<h2 align="center">Reach me on</h2>
+<p align="center">
+<a href="mailto:shane@shawilly.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
+<a href="https://www.linkedin.com/in/shanebarrywilliams/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="https://www.instagram.com/fatmanlifting/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+</p>
 
 <h2 align="center">Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
 
