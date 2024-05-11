@@ -1,23 +1,17 @@
-<div align="center">
-<p align="center" color="#a8daff">$${\color{blue}hey, I'm}$$</p>
-<p align="center" color="#a8daff">$${\color{lightblue}━━━━┏┓━━━━━━━━━━━━━━━┏┓━┏┓━━━━━━}$$</p>
-<p align="center" color="#a8daff">$${\color{lightblue}━━━━┃┃━━━━━━━━━━━━━━━┃┃━┃┃━━━━━━}$$</p>
-<p align="center" color="#a8daff">$${\color{lightblue}┏━━┓┃┗━┓┏━━┓━┏┓┏┓┏┓┏┓┃┃━┃┃━┏┓━┏┓}$$</p>
-<p align="center" color="#a8daff">$${\color{lightblue}┃━━┫┃┏┓┃┗━┓┃━┃┗┛┗┛┃┣┫┃┃━┃┃━┃┃━┃┃}$$</p>
-<p align="center" color="#a8daff">$${\color{lightblue}┣━━┃┃┃┃┃┃┗┛┗┓┗┓┏┓┏┛┃┃┃┗┓┃┗┓┃┗━┛┃}$$</p>
-<p align="center" color="#a8daff">$${\color{lightblue}┗━━┛┗┛┗┛┗━━━┛━┗┛┗┛━┗┛┗━┛┗━┛┗━┓┏┛}$$</p>
-<p align="center" color="#a8daff">$${\color{lightblue}━━━━━━━━━━━━━━━━━━━━━━━━━━━┏━┛┃━}$$</p>
-<p align="center" color="#a8daff">$${\color{lightblue}━━━━━━━━━━━━━━━━━━━━━━━━━━━┗━━┛━}$$</p>
-</div>
-<h3 align="center" color="#a8daff">$${\color{lightblue}Creator \space of...}$$</h3>
-<div align="center">
- <a href="https://github.com/shawilly/ponokai/">
-<img align="center" src="./ponokai.drawio.svg">
-  </a>
-</div>
-<h1 align="center" color="#a8daff">$${\color{lightblue}A \space pastel \space twist \space on \space the \space iconic \space Monokai, \space crafted \space for \space comfort \space and \space style.}$$</h1>
 
-<h2 align="center">Reach me on</h2>
+<div align="center">
+<p align="center" color="#a8daff">$${\color{#FAED27}hey, I'm}$$</p>
+<p align="center" color="#a8daff">$${\color{#FFF700}━━━━┏┓━━━━━━━━━━━━━━━┏┓━┏┓━━━━━━}$$</p>
+<p align="center" color="#a8daff">$${\color{#FFEF00}━━━━┃┃━━━━━━━━━━━━━━━┃┃━┃┃━━━━━━}$$</p>
+<p align="center" color="#a8daff">$${\color{#FFD700}┏━━┓┃┗━┓┏━━┓━┏┓┏┓┏┓┏┓┃┃━┃┃━┏┓━┏┓}$$</p>
+<p align="center" color="#a8daff">$${\color{#FFD700}┃━━┫┃┏┓┃┗━┓┃━┃┗┛┗┛┃┣┫┃┃━┃┃━┃┃━┃┃}$$</p>
+<p align="center" color="#a8daff">$${\color{#FFB90F}┣━━┃┃┃┃┃┃┗┛┗┓┗┓┏┓┏┛┃┃┃┗┓┃┗┓┃┗━┛┃}$$</p>
+<p align="center" color="#a8daff">$${\color{#FFBF00}┗━━┛┗┛┗┛┗━━━┛━┗┛┗┛━┗┛┗━┛┗━┛┗━┓┏┛}$$</p>
+<p align="center" color="#a8daff">$${\color{#FFA500}━━━━━━━━━━━━━━━━━━━━━━━━━━━┏━┛┃━}$$</p>
+<p align="center" color="#a8daff">$${\color{#FF6600}━━━━━━━━━━━━━━━━━━━━━━━━━━━┗━━┛━}$$</p>
+</div>
+
+
 <p align="center">
 <a href="mailto:shane@shawilly.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
 <a href="https://www.linkedin.com/in/shanebarrywilliams/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
