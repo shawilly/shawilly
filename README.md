@@ -8,7 +8,7 @@
 <p align="center" color="#a8daff">$${\color{#FFB90F}███████║██║━━██║██║━━██║╚███╔███╔╝██║███████╗███████╗━━━██║━━━}$$</p>
 <p align="center" color="#a8daff">$${\color{#FFBF00}╚══════╝╚═╝━━╚═╝╚═╝━━╚═╝━╚══╝╚══╝━╚═╝╚══════╝╚══════╝━━━╚═╝━━━}$$</p>
 <p align="center" color="#a8daff">$${\color{#FFA500}━━━━━━━━━━━━━━━━━━━━━━━━━building━stuff━━━━━━━━━━━━━━━━━━━━━}$$</p>
-<p align="center" color="#a8daff">$${\color{#FF6600}━━━━━━━━━━━━━━━━━━━━to━get━better━at━building━stuff━━━━━━━━━━━}$$</p>
+<p align="center" color="#a8daff">$${\color{#FF6600}━━━━━━━━━━━━━━━━━━to━get━better━at━building━stuff━━━━━━━━━━━━━}$$</p>
 </div>
 <br/>
 
