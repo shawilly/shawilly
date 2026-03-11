@@ -13,14 +13,14 @@ Redesign the GitHub profile landing page README to be clean, readable, and infor
 - Ponokai banner (`ponokai.svg`) retained at the top, centered
 - Text header below: name + title (`Shane Williams · Senior Full-Stack Engineer`)
 - Tagline: "Building scalable systems at the intersection of IoT, cloud, and developer tooling"
-- Inline icon/badge links: GitHub profile, LinkedIn, shawilly.dev
+- Inline badge links: GitHub profile, LinkedIn, shawilly.dev — using shields.io `for-the-badge` style with logo icons (e.g. `?style=for-the-badge&logo=github`)
 
 ### 2. About
 Three sentences, factual and tight:
 > 5+ years building enterprise production systems. Currently architecting IoT energy management platforms at ResourceKraft — real-time data from thousands of devices. Previously scaled tooling at BioRender for 4M+ scientists worldwide.
 
 ### 3. Tech Stack
-Shields.io flat badges grouped by category:
+Shields.io `flat` style badges with logo icons (from Simple Icons) grouped by category:
 - **Languages:** TypeScript, JavaScript, Go, Lua
 - **Frontend:** React, Next.js, Expo, Tailwind CSS, Sass
 - **Backend:** Node.js, Fastify, Express, PostgreSQL, MongoDB, Redis, InfluxDB, MQTT
@@ -28,11 +28,16 @@ Shields.io flat badges grouped by category:
 - **Tools:** Neovim, Git, Linux, Fish
 
 ### 4. GitHub Stats
-Two `github-readme-stats` cards centered side by side:
+Two `github-readme-stats` cards on the same row where supported (via `<table>` for alignment; mobile stacking is acceptable):
 - GitHub Stats card (stars, commits, PRs, issues, contributions)
 - Top Languages card
 
-Both use a dark theme consistent with the ponokai banner aesthetic.
+Custom colors matching the ponokai banner palette:
+- `bg_color=333648`
+- `title_color=ff8c9a`
+- `text_color=f8e7b0`
+- `icon_color=98d4e7`
+- `border_color=393e53`
 
 ### 5. Featured Projects
 Three pinned open source projects as a markdown list with links:
@@ -45,7 +50,7 @@ Three pinned open source projects as a markdown list with links:
 - `introduction.svg` — removed
 - `linkedin.svg` — removed
 - `shawilly.dev.svg` — removed
-- `ponokai.svg` — retained
+- `ponokai.svg` — retained, with its existing `<a>` link to the ponokai repo
 
 ## Design Principles
 - No custom SVG animations beyond the ponokai banner
