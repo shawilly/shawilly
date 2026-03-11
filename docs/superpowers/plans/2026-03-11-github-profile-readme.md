@@ -10,6 +10,8 @@
 
 **Spec:** `docs/superpowers/specs/2026-03-11-github-profile-readme-design.md`
 
+**Git:** All git operations (commits, push) are handled by the user. Claude makes only file edits and deletions.
+
 ---
 
 ## Chunk 1: Cleanup and Hero + About
@@ -23,22 +25,7 @@
 
 - [ ] **Step 1: Delete the three unused SVG files**
 
-```bash
-git rm introduction.svg linkedin.svg shawilly.dev.svg
-```
-
-Expected output:
-```
-rm 'introduction.svg'
-rm 'linkedin.svg'
-rm 'shawilly.dev.svg'
-```
-
-- [ ] **Step 2: Commit**
-
-```bash
-git commit -m "chore: remove unused SVG files"
-```
+Delete `introduction.svg`, `linkedin.svg`, and `shawilly.dev.svg` from the repo root. These are no longer referenced by the new README.
 
 ---
 
@@ -47,7 +34,7 @@ git commit -m "chore: remove unused SVG files"
 **Files:**
 - Modify: `README.md` (full rewrite)
 
-- [ ] **Step 1: Replace README.md content with Hero and About sections**
+- [ ] **Step 1: Replace README.md with Hero and About sections**
 
 Replace the entire contents of `README.md` with:
 
@@ -77,20 +64,6 @@ Replace the entire contents of `README.md` with:
 
 5+ years building enterprise production systems. Currently architecting IoT energy management platforms at ResourceKraft — real-time data from thousands of devices. Previously scaled tooling at BioRender for 4M+ scientists worldwide.
 ```
-
-- [ ] **Step 2: Push to GitHub and verify the hero renders correctly**
-
-```bash
-git add README.md
-git commit -m "feat: add hero and about sections to profile README"
-git push
-```
-
-Visit `https://github.com/shawilly` and confirm:
-- ponokai banner renders at the top with its link intact
-- Name, title, tagline render below the banner
-- Three badge links are visible and styled correctly
-- About paragraph renders under the `---` divider
 
 ---
 
@@ -154,18 +127,6 @@ Append after the About section:
 ![Fish](https://img.shields.io/badge/Fish-4aaa48?style=flat&logo=fishshell&logoColor=white)
 ```
 
-- [ ] **Step 2: Push and verify badges render**
-
-```bash
-git add README.md
-git commit -m "feat: add tech stack badges to profile README"
-git push
-```
-
-Visit `https://github.com/shawilly` and confirm:
-- All five badge groups render with logos and correct colours
-- No broken badge images (a broken badge shows as a grey pill with the URL)
-
 ---
 
 ### Task 4: Add GitHub Stats section
@@ -195,21 +156,7 @@ Append after the Tech Stack section:
 </table>
 ```
 
-- [ ] **Step 2: Push and verify stats cards render**
-
-```bash
-git add README.md
-git commit -m "feat: add GitHub stats cards to profile README"
-git push
-```
-
-Visit `https://github.com/shawilly` and confirm:
-- Both cards render side by side (or stacked on narrow screens)
-- Colors match the ponokai palette (dark grey-blue background, pink titles, cream text)
-- Stats card shows real data (stars, commits, PRs)
-- Top Languages card shows real language breakdown
-
-> **Note:** github-readme-stats uses Vercel's public deployment. If cards show "This deployment has been banned" or rate limiting, self-deploy via the [github-readme-stats docs](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) or use the official instance with a PAT via their instructions.
+> **Note:** github-readme-stats uses Vercel's public deployment. If cards show "This deployment has been banned" or rate limiting, self-deploy via the [github-readme-stats docs](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) or use the official instance with a PAT.
 
 ---
 
@@ -238,15 +185,11 @@ Append after the GitHub Stats section:
 `TypeScript`
 ```
 
-- [ ] **Step 2: Push and verify the full README**
+---
 
-```bash
-git add README.md
-git commit -m "feat: add featured projects to profile README"
-git push
-```
+## Final Verification (after user pushes)
 
-Visit `https://github.com/shawilly` and do a final end-to-end check:
+Visit `https://github.com/shawilly` and confirm:
 - ponokai banner at top, links to ponokai repo ✓
 - Name, title, tagline, three hero badges ✓
 - About paragraph ✓
